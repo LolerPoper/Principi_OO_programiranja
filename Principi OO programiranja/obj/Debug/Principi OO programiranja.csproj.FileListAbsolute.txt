@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Principi OO programiranja\bin\Debug\Principi OO programiranja.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Principi OO programiranja\bin\Debug\Principi OO programiranja.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Principi OO programiranja\bin\Debug\Principi OO programiranja.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Principi OO programiranja\obj\Debug\Principi OO programiranja.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Principi OO programiranja\obj\Debug\Principi OO programiranja.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Principi OO programiranja\obj\Debug\Principi OO programiranja.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Principi OO programiranja\obj\Debug\Principi OO programiranja.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Principi OO programiranja\obj\Debug\Principi OO programiranja.pdb
